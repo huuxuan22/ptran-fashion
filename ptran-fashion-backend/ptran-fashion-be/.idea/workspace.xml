@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0aaef018-1184-4b72-8d36-cdf71cff5c0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/Categories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/project-C1023I1.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/project-C1023I1.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/ChangePassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/EmployeeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/EmployeeUpdateDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/SendCodeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/UserLoginDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/bill/OrderDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/income/IncomeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/CallOrderRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/CallServiceRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/CategoryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/FeedbackDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/OrderDetailsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/ProductDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/bill/OrderDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/income/IncomeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Dto/product/income/ProductDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Validation/UsernameExistsValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/Validation/UsernameExistsValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/component/JwtTokenUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/component/JwtTokenUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/ModelMapperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/ModelMapperConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/SercurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/SercurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/WebSercurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/config/WebSercurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/FeedbackController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/OrderDetailsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/PromotionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/TableController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/controller/product/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/filter/JwtTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/filter/JwtTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/CallOrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/CallServiceRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/Feedback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/OrderDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/Promotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/model/product/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/bill/IOrderDetailsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/bill/IOrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/bill/ITableRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/CallOrderRequestRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/FeedbackRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/ICategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/IProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/IPromotionRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/NotificationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/OrderDetailsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/repository/product/TableRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/respone/ChangePasswordRespone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/respone/FindUserByEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/respone/LoginRespone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/respone/UserErrorsRespone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/respone/UserInforRespone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/respone/UserLoginErrorsRespone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/respone/UserRespone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/bill/IncomeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/bill/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/CallOrderRequestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/ICategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/IFeedbackService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/IProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/IPromotionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/OrderDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/TableService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/CallOrderRequestServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/FeedbackService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/IProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/IncomeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/NotificationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/OrderDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/PromotionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/TableServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/product/impl/TokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/user/ISendCodeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/user/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/user/impl/EmailSenderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/user/impl/SendCodeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/java/com/example/projectc1023i1/service/user/impl/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-C1023I1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project-C1023I1/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/project-C1023I1">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2onZZqn8GwkCnD4nK6ifnQWQvfv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build project-C1023I1.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ProjectC1023I1Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;xuan&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ptran-fashion/ptran-fashion-backend/C1023L1-BE/project-C1023I1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ProjectC1023I1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="project-C1023I1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.projectc1023i1.ProjectC1023I1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aaef018-1184-4b72-8d36-cdf71cff5c0e" name="Changes" comment="" />
+      <created>1731507359470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731507359470</updated>
+      <workItem from="1731507360254" duration="2500000" />
+      <workItem from="1731543344585" duration="41000" />
+      <workItem from="1731671514441" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
