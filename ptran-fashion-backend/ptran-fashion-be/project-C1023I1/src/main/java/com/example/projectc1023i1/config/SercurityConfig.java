@@ -18,7 +18,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 @RequiredArgsConstructor
 public class SercurityConfig {
     @Autowired
-    private IUserRepository userRepo;
+    private IUserRepository userRepository;
 
     @Bean
     public BCryptPasswordEncoder passwordEncoder() {
@@ -35,7 +35,7 @@ public class SercurityConfig {
             // Log username để kiểm tra
             System.out.println("Looking for user: " + username);
 
-            Users existingUser = userRepo.findByUsername(username)
+            Users existingUser = userRepository.findByUsername(username)
                     .orElseThrow(() -> {
                         System.out.println("User " + username + " not found!");
                         return new UsernameNotFoundException("User " + username + " not found");
