@@ -2,6 +2,7 @@ package com.example.projectc1023i1.repository.impl;
 
 
 import com.example.projectc1023i1.model.Users;
+import com.example.projectc1023i1.request.UpdateUserRequest;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
@@ -22,5 +23,8 @@ public interface IUserRepository extends JpaRepository<Users, Integer> {
 
     @Query(value = "select u from Users u")
     Page<Users> getAllUser(Pageable pageable);
+
+//    @Query(value = "")
+//    void updateProfile(UpdateUserRequest user, Integer userId);
 
 }
